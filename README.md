@@ -11,7 +11,6 @@ https://user-images.githubusercontent.com/102004234/169589595-4118eeb3-b0ee-4117
 # board B
 
 
-용량이 커서 나눠 올립니다.
   
 https://user-images.githubusercontent.com/102004234/169590141-c43ca98a-076a-4d2e-bbd9-649ace1f9797.mp4
 
@@ -22,7 +21,6 @@ https://user-images.githubusercontent.com/102004234/169590153-d600d23c-1d5b-4462
   
 # 람다 로그
 
-람다 로그 부분은 캡쳐해서 올립니다.
   
 ![스크린샷(887)](https://user-images.githubusercontent.com/102004234/169588740-342c3884-db91-4fb7-9068-0105ca482be7.png)
 ![스크린샷(886)](https://user-images.githubusercontent.com/102004234/169588753-f208ed26-a36d-4653-90c6-b53607a557dc.png)
